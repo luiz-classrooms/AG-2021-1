@@ -1,0 +1,52 @@
+* Algoritmos em Grafos
+** Cronograma
+
+  | Data             | Aula | Conteúdo                                     | Status vídeo |
+  |------------------+------+----------------------------------------------+--------------|
+  | [2021-05-10 Mon] |    1 | Live: apresentação da disciplina             | N/A          |
+  | [2021-05-13 Thu] |    2 | Grafos: terminologia básica                  |              |
+  | [2021-05-17 Mon] |    3 | Live: tira-dúvidas                           | N/A          |
+  | [2021-05-20 Thu] |    4 | Grafos: grafos notáveis e operações          |              |
+  | [2021-05-24 Mon] |    5 | Live: tira-dúvidas                           | N/A          |
+  | [2021-05-27 Thu] |    6 | Multigrafos e digrafos                       |              |
+  | [2021-05-31 Mon] |    7 | Live: tira-dúvidas                           | N/A          |
+  | [2021-06-03 Thu] |    8 | Grafos Eulerianos                            |              |
+  | [2021-06-07 Mon] |    9 | Live: tira-dúvidas                           | N/A          |
+  | [2021-06-10 Thu] |   10 | Grafos Hamiltonianos                         |              |
+  | [2021-06-14 Mon] |   11 | Live: tira-dúvidas                           | N/A          |
+  | [2021-06-17 Thu] |   12 | Buscas em Largura e Profundidade             |              |
+  | [2021-06-21 Mon] |   13 | Live: tira-dúvidas                           | N/A          |
+  | [2021-06-24 Thu] |   14 | Componentes Fortemente Conexas               |              |
+  | [2021-06-28 Mon] |   15 | Live: tira-dúvidas                           | N/A          |
+  | [2021-07-01 Thu] |   16 | Árvore Geradora Mínima: definições           |              |
+  | [2021-07-05 Mon] |   17 | Live: tira-dúvidas                           | N/A          |
+  | [2021-07-08 Thu] |   18 | árvore Geradora Mínima: algoritmo de Kruskal |              |
+  | [2021-07-12 Mon] |   19 | Live: tira-dúvidas                           | N/A          |
+  | [2021-07-15 Thu] |   20 | Árvore Geradora Mínima: algoritmo de Prim    |              |
+  | [2021-07-19 Mon] |   21 | Live: tira-dúvidas                           | N/A          |
+  | [2021-07-22 Thu] |   22 | Caminhos Mais Curtos: ordenação topológica   | Gravado      |
+  | [2021-07-26 Mon] |   23 | Live: tira-dúvidas                           | N/A          |
+  | [2021-07-29 Thu] |   24 | Caminhos Mais Curtos: Dijkstra               | Gravado      |
+  | [2021-08-02 Mon] |   25 | Live: tira-dúvidas                           | N/A          |
+  | [2021-08-05 Thu] |   26 | Caminhos Mais Curtos: Bellman-Ford           | Gravado      |
+  | [2021-08-09 Mon] |   27 | Live: tira-dúvidas                           | N/A          |
+  | [2021-08-12 Thu] |   28 | Caminhos Mais Curtos: Floyd-Warshall         | Gravado      |
+  | [2021-08-16 Mon] |   29 | Live: tira-dúvidas                           | N/A          |
+  | [2021-08-19 Thu] |   30 | Fluxo: definições                            | Gravado      |
+  | [2021-08-23 Mon] |   31 | Live: tira-dúvidas                           | N/A          |
+  | [2021-08-26 Thu] |   32 | Fluxo: Ford-Fulkerson e Edmonds-Karp         | Gravado      |
+  | [2021-08-30 Mon] |   33 | Live: tira-dúvidas                           | N/A          |
+  | [2021-09-02 Thu] |   34 |                                              |              |
+  | [2021-09-06 Mon] |   AF |                                              | N/A          |
+  | [2021-09-09 Thu] |   AF |                                              | N/A          |
+
+** Entregas
+
+   | Data             | Entrega     |
+   |------------------+-------------|
+   | [2021-06-17 qui] | aulas 2-10  |
+   | [2021-07-01 qui] | aulas 12-14 |
+   | [2021-07-22 qui] | aulas 16-20 |
+   | [2021-08-19 qui] | aulas 22-28 |
+   | [2021-09-02 qui] | aulas 30-32 |
+  
