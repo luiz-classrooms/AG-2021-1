@@ -1,4 +1,7 @@
 * Algoritmos em Grafos
+
+  Playlist da disciplina: https://www.youtube.com/playlist?list=PLRDuHd2Ia_buh600GNhMrwcsjsVASxy5p
+
 ** Cronograma
 
   | Data             | Aula | Conteúdo                                     | Status vídeo |
