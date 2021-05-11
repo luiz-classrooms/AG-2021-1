@@ -9,7 +9,7 @@
   | [2021-05-10 Mon] |    1 | Live: apresentação da disciplina             | N/A          |
   | [2021-05-13 Thu] |    2 | Grafos: terminologia básica                  | Gravado      |
   | [2021-05-17 Mon] |    3 | Live: tira-dúvidas                           | N/A          |
-  | [2021-05-20 Thu] |    4 | Grafos: grafos notáveis e operações          |              |
+  | [2021-05-20 Thu] |    4 | Grafos: grafos notáveis e operações          | Gravado      |
   | [2021-05-24 Mon] |    5 | Live: tira-dúvidas                           | N/A          |
   | [2021-05-27 Thu] |    6 | Multigrafos e digrafos                       |              |
   | [2021-05-31 Mon] |    7 | Live: tira-dúvidas                           | N/A          |
