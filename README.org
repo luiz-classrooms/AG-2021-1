@@ -17,7 +17,7 @@
   | [2021-06-07 Mon] |    9 | Live: tira-dúvidas                           | N/A          |
   | [2021-06-10 Thu] |   10 | Grafos Hamiltonianos                         | Gravado      |
   | [2021-06-14 Mon] |   11 | Live: tira-dúvidas                           | N/A          |
-  | [2021-06-17 Thu] |   12 | Buscas em Largura e Profundidade             |              |
+  | [2021-06-17 Thu] |   12 | Buscas em Largura e Profundidade             | Gravado      |
   | [2021-06-21 Mon] |   13 | Live: tira-dúvidas                           | N/A          |
   | [2021-06-24 Thu] |   14 | Componentes Fortemente Conexas               |              |
   | [2021-06-28 Mon] |   15 | Live: tira-dúvidas                           | N/A          |
