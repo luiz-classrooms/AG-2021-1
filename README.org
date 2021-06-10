@@ -21,7 +21,7 @@
   | [2021-06-21 Mon] |   13 | Live: tira-dúvidas                           | N/A             |
   | [2021-06-24 Thu] |   14 | Componentes Fortemente Conexas               | Abordar em live |
   | [2021-06-28 Mon] |   15 | Live: tira-dúvidas                           | N/A             |
-  | [2021-07-01 Thu] |   16 | Árvore Geradora Mínima: definições           |                 |
+  | [2021-07-01 Thu] |   16 | Árvore Geradora Mínima: definições           | Gravado         |
   | [2021-07-05 Mon] |   17 | Live: tira-dúvidas                           | N/A             |
   | [2021-07-08 Thu] |   18 | árvore Geradora Mínima: algoritmo de Kruskal |                 |
   | [2021-07-12 Mon] |   19 | Live: tira-dúvidas                           | N/A             |
