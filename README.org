@@ -25,7 +25,7 @@
   | [2021-07-05 Mon] |   17 | Live: tira-dúvidas                           | N/A             |
   | [2021-07-08 Thu] |   18 | árvore Geradora Mínima: algoritmo de Kruskal | Gravado         |
   | [2021-07-12 Mon] |   19 | Live: tira-dúvidas                           | N/A             |
-  | [2021-07-15 Thu] |   20 | Árvore Geradora Mínima: algoritmo de Prim    |                 |
+  | [2021-07-15 Thu] |   20 | Árvore Geradora Mínima: algoritmo de Prim    | Gravado         |
   | [2021-07-19 Mon] |   21 | Live: tira-dúvidas                           | N/A             |
   | [2021-07-22 Thu] |   22 | Caminhos Mais Curtos: ordenação topológica   | Gravado         |
   | [2021-07-26 Mon] |   23 | Live: tira-dúvidas                           | N/A             |
